@@ -1,0 +1,21 @@
+
+[
+  {
+    "id": "al-capone-hoodie",
+    "name": "Al Capone — RICH OFF DIRTY MONEY Hoodie",
+    "price": 34.99,
+    "sizes": ["S","M","L"],
+    "category": "Hoodie",
+    "description": "Black hoodie featuring Al Capone and 'RICH OFF DIRTY MONEY' graphic.",
+    "images": ["/hoodie-front.png", "/hoodie-back.png"]
+  },
+  {
+    "id": "slim-fit-tee",
+    "name": "RICH OFF DIRTY MONEY Slim Fit Tee",
+    "price": 13.99,
+    "sizes": ["S","M","L"],
+    "category": "T-Shirt",
+    "description": "Slim fit tee with Dirty Dollaz branding and bold back graphic.",
+    "images": ["/tee-front.png", "/tee-back.png"]
+  }
+]
